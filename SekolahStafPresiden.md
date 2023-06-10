@@ -41,8 +41,10 @@ Keempat, kurangnya kesadaran dan kesiapan di kalangan masyarakat umum dan usaha 
 
 Seperti yang telah dijelaskan pada prolog, satu negara boleh saja berselisih dengan negara mitranya, namun tidak akan pernah membiarkan hubungan tersebut terancam. Indonesia harus banyak belajar dari segala aspek atas apa yang terjadi, bukan karena Indonesia berada di wilayah yang aman di zona non-Eropa sehingga tidak memiliki peran dalam konflik ini, tetapi juga karena dapat mengambil pelajaran dan melihat perang siber sebagai bagian dari ancaman terhadap yurisdiksi teritorial. Jika pemerintah belum mampu menghitung resiko dan manfaatnya sebagai bentuk antisipasi. Proyek ini sebenarnya menjadi opsi terbuka bagi Indonesia untuk mengambil pelajaran berharga dari konflik perang siber antara Rusia dan Ukraina untuk meningkatkan infrastruktur keamanan siber, edukasi dan kesadaran, pengembangan industri, serta kolaborasi internasional. Dengan mengambil pendekatan yang komprehensif dan kolaboratif terhadap keamanan siber, Indonesia dapat meningkatkan langkah-langkah pencegahan ancaman siber dan melindungi infrastruktur penting dan keamanan nasionalnya.
 
-DAFTAR PUSTAKA
+# DAFTAR PUSTAKA
+
 BBC. (2022, November 16). KTT G20 resmi ditutup, deklarasi sepakat “mengecam perang di Ukraina” dan “menuntut Rusia menarik pasukannya.” https://www.bbc.com/indonesia/dunia-63620779
+
 Chen, E. (2022, June 30). As Cyber Threats Grow, Indonesia’s Data Protection Efforts Are Falling Short. The Diplomat. https://thediplomat.com/2022/06/as-cyber-threats-grow-indonesias-data-protection-efforts-are-falling-short/
 
 Eichensehr, K. E. (2022). Ukraine, Cyberattacks, and the Lessons for International Law. AJIL Unbound, 116, 145–149. https://doi.org/10.1017/aju.2022.20
